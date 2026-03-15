@@ -1,0 +1,6 @@
+Item,Quantity,Part,Description,Link
+1,1,Seeeduino XIAO RP2040,Microcontroller board,https://www.seeedstudio.com/XIAO-RP2040-p-5026.html
+2,11,Cherry MX Switches,Mechanical keyboard switches,https://www.cherrymx.de/en/cherry-mx.html
+3,11,Keycaps,Standard mechanical keyboard keycaps,https://www.amazon.com/dp/B09G9FZC7R
+4,1,PCB,Custom macropad PCB,https://github.com/YOURUSERNAME/Hackpad
+5,1,USB-C Cable,Power and data connection,https://www.amazon.com/dp/B08PVPTNZL
