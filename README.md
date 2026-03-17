@@ -11,10 +11,10 @@ This design was reviewed and sanity-checked with peers to verify component place
 | Item | Quantity | Description | Footprint | Link |
 |-----|-----|-----|-----|-----|
 | Seeed XIAO RP2040 | 1 | Microcontroller | XIAO-RP2040 | https://www.seeedstudio.com/XIAO-RP2040-p-5026.html |
-| Cherry MX Switch | 4 | Mechanical key switch | MX | https://www.cherrymx.de/en/cherry-mx.html |
-| 1N4148 Diode | 4 | Signal diode | DO-35 / SMD | https://www.vishay.com/docs/81857/1n4148.pdf |
-| Kailh Hot Swap Socket | 4 | Switch socket | Kailh MX Socket | https://splitkb.com/products/kailh-hotswap-sockets |
-| Keycaps | 4 | MX compatible keycaps | MX | https://kbdfans.com |
+| Cherry MX Switch | 11 | Mechanical key switch | MX | https://www.cherrymx.de/en/cherry-mx.html |
+| 1N4148 Diode | 11 | Signal diode | DO-35 / SMD | https://www.vishay.com/docs/81857/1n4148.pdf |
+| Kailh Hot Swap Socket | 11 | Switch socket | Kailh MX Socket | https://splitkb.com/products/kailh-hotswap-sockets |
+| Keycaps | 11 | MX compatible keycaps | MX | https://kbdfans.com |
 | PCB | 1 | Custom Hackpad PCB | Custom | — |
 | Case | 1 | 3D printed case | Custom | — |
 | Screws | 4 | Case mounting screws | M2 | https://www.mcmaster.com |
